@@ -1,6 +1,6 @@
 # Model-Selection-of-National-Electronic-Injury-Surveillance-System
 
-A Project of Data Science and Machine Learning Course. 
+A Project of Data Science and Machine Learning. 
 
 
 The dataset can be obtained from https://www.cpsc.gov/Research--Statistics/NEISS-Injury-Data/
